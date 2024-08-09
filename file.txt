@@ -2,5 +2,8 @@ welcome to my class
 yhis is my second commit
 this is my third commit
 hello all
+<<<<<<< HEAD
 hdnjdhhd
 hellow how are you
+=======
+>>>>>>> parent of 15cc9e2 (demo reverting)
